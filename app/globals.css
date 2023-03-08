@@ -53,11 +53,8 @@ p {
 
 /* LAYOUT */
 /* HEADER */
-header {
-  @apply;
-}
 nav {
-  @apply;
+  @apply bg-transparent;
 }
 /* MAIN */
 main {
@@ -68,7 +65,7 @@ main {
 }
 /* FOOTER */
 footer {
-  @apply;
+  @apply bg-body;
 }
 
 /* LINKS */
